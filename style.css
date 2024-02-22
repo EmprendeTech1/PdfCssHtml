@@ -1,5 +1,6 @@
 /* reset */
 * {
+
     box-sizing: content-box;
     color: inherit;
     font: inherit;
@@ -137,7 +138,7 @@ article,
 article address,
 table.meta,
 table.inventory {
-    margin: 0 0 2em;
+    margin: 0 0 0.5em;
     clear: both;
 }
 
