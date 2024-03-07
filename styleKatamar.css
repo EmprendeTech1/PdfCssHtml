@@ -196,7 +196,7 @@ table { font-size: 75%; table-layout: fixed; width: 100%; }
 table { border-collapse: separate; border-spacing: 2px; }
 th, td { border-width: 1px; padding: 0.5em; position: relative; text-align: left; }
 th, td { border-radius: 0.25em; border-style: solid; }
-th { background: #EEE; border-color: #BBB; }
+th { background: #C6D9EE; border-color: #54888C; }
 td { border-color: #DDD; }
 
 /* aside */
