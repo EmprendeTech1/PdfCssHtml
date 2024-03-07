@@ -297,3 +297,8 @@ tr:hover .cut {
     text-align: left;
 }
 
+.listacentro{    
+    max-width: 100%; 
+    text-align: center;
+}
+
