@@ -292,7 +292,8 @@ tr:hover .cut {
     margin-bottom: 1px;
 }
 
-.listalarga{
-    max-width: 60%;
+.listalarga{    
+    max-width: 100%; 
+    text-align: left;
 }
 
