@@ -85,6 +85,37 @@ span{
     text-align: left;
 }
 
+.TablaTotales th{
+    background-color: rgb(40, 193, 240);
+    text-align: center;
+    color: #ffffffde;
+    font-size: 10px;
+    border: 1px dotted #333;
+}
+
+.TablaTotales td{
+    background-color: rgba(255, 255, 255, 0.582);
+    border: 1px dotted #333;
+    text-align: center;
+    font-family: Arial, sans-serif, Impact;
+    font-weight: bold;
+}
+
+.TablaObservaciones th{
+    background-color: rgb(40, 193, 240);
+    text-align: center;
+    color: #fff;
+    font-size: 10px;
+    border: 1px dotted #333;
+}
+.TablaObservaciones td{
+   
+    text-align: left;    
+    font-size: 10px;
+    border: 1px dotted #333;
+    height: 90px;
+}
+
 
 /* Styles go here */
 
