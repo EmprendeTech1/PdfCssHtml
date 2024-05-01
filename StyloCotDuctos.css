@@ -154,7 +154,7 @@ span{
     text-align: left;    
     font-size: 10px;
     border: 1px dotted #333;
-    height: 45px;   
+    height: 30px;   
 
 }
 
@@ -174,7 +174,7 @@ span{
  
 
 .N_Cotizacion td span{
-   font-size: 250%;
+   font-size: 200%;
 }
 
 
