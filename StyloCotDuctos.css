@@ -1,28 +1,3 @@
-/* Estilos para el encabezado */
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;   
-    color: #0000008a;
-    padding: 10px;
-    text-align: center;
-    font-family: Arial, sans-serif; /* Cambiamos la fuente a Arial */
-    font-size: 10px; /* Modificamos el tamaño de la letra a 14px */
-}
-
-/* Estilos para el pie de página */
-footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;   
-    color: #0000008a;
-    padding: 10px;
-    text-align: center;
-    font-family: Arial, sans-serif; /* Cambiamos la fuente a Arial */
-    font-size: 10px; /* Modificamos el tamaño de la letra a 12px */
-}
 
 main{
     margin-top: 60px;
@@ -108,6 +83,51 @@ span{
 
 .izquierda{
     text-align: left;
+}
+
+
+/* Styles go here */
+
+.page-header, .page-header-space {
+  height: 100px;
+}
+
+.page-footer, .page-footer-space {
+  height: 50px;
+
+}
+
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid black; /* for demo */
+  background: yellow; /* for demo */
+}
+
+.page-header {
+  position: fixed;
+  top: 0mm;
+  width: 100%;
+  border-bottom: 1px solid black; /* for demo */
+  background: yellow; /* for demo */
+}
+
+.page {
+  page-break-after: always;
+}
+
+@page {
+  margin: 20mm
+}
+
+@media print {
+   thead {display: table-header-group;} 
+   tfoot {display: table-footer-group;}
+   
+   button {display: none;}
+   
+   body {margin: 0;}
 }
 
 
