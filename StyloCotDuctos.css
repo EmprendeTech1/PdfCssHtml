@@ -32,8 +32,7 @@ p{
 .Tablaizquierda th{
     text-align: left;
     background-color: rgb(40, 193, 240);
-    color: #fffe;
-    border-radius: 5%;
+    color: #fffe;   
     border: 1px dotted #333;
     
 }
