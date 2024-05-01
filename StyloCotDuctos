@@ -1,0 +1,113 @@
+/* Estilos para el encabezado */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    /*background-color: #333;*/
+    color: #0000008a;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif; /* Cambiamos la fuente a Arial */
+    font-size: 10px; /* Modificamos el tamaño de la letra a 14px */
+}
+
+/* Estilos para el pie de página */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif; /* Cambiamos la fuente a Arial */
+    font-size: 10px; /* Modificamos el tamaño de la letra a 12px */
+}
+
+main{
+    margin-top: 60px;
+}
+
+h1{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+p{
+    font-family: Arial, sans-serif; /* Cambiamos la fuente a Arial */    
+    line-height: 1.2;
+    margin-bottom: 2px;
+    margin: 0;
+    padding: 0;
+}
+
+.informacion{
+    text-align: center;
+    font-size: 10px; /* Modificamos el tamaño de la letra a 12px */
+}
+
+.container {
+    display: flex; /* Establece el contenedor como un contenedor flexible */
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+}
+
+
+.Tablaizquierda th{
+    text-align: left;
+    background-color: rgb(40, 193, 240);
+    color: #ffffffde;
+    border-radius: 5%;
+    
+}
+
+.Tablaizquierda span{
+    font-family: Arial, sans-serif;
+    font-size: 12px; /* Modificamos el tamaño de la letra a 12px */
+}
+
+.Tablaizquierda td{
+    border-bottom: 1px dotted #333;
+    color: #333;
+}
+
+.linea-vertical {
+    border-left: 1px dotted #333; /* Añade un borde izquierdo de 1px de grosor y color negro */
+    height: 20px; /* Ajusta la altura de la línea vertical según tus necesidades */
+}
+
+span{
+    font-family: Arial, sans-serif;
+    font-size: 12px; /* Modificamos el tamaño de la letra a 12px */
+}
+
+.centrar{
+    text-align: center;
+}
+
+.tablaDetalle{
+    border: 1px solid hsl(187, 84%, 37%);
+}
+
+.tablaDetalle th{
+    text-align: center;
+    background-color: rgb(40, 193, 240);
+    color: #ffffffde;
+    /*border-radius: 5%;*/
+    font-size: 11px;
+    border: 1px dotted #333;
+    
+}
+
+.tablaDetalle td{
+    border-left: 1px dotted #333;
+    border-bottom: 1px dotted #333;
+    font-size: 10px;
+    text-align: center;
+}
+
+.izquierda{
+    text-align: left;
+}
