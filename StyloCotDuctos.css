@@ -110,27 +110,4 @@ span{
     text-align: left;
 }
 
-@media print {
-            header, footer {
-              position: fixed;
-              left: 0;
-              width: 100%;
-          
-              color: #333;
-              padding: 10px 20px;
-              z-index: 1000; 
-            }
-          
-            header {
-              top: 0;
-            }
-          
-            footer {
-              bottom: 0;
-            }
-          
-            main {
-              margin-top: 50px; 
-              margin-bottom: 200px; 
-            }
-          }
+
