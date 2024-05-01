@@ -102,7 +102,9 @@ span{
   bottom: 0;
   width: 100%;
   border-top: 1px solid black; /* for demo */
-  background: yellow; /* for demo */
+    font-family: Arial, sans-serif; /* Cambiamos la fuente a Arial */
+    font-size: 10px; /* Modificamos el tamaño de la letra a 14px */
+
 }
 
 .page-header {
@@ -110,6 +112,8 @@ span{
   top: 0mm;
   width: 100%;
   border-bottom: 1px solid black; /* for demo */  
+    font-family: Arial, sans-serif; /* Cambiamos la fuente a Arial */
+    font-size: 10px; /* Modificamos el tamaño de la letra a 14px */
 }
 
 .page {
