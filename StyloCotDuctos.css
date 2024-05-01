@@ -115,6 +115,19 @@ span{
     border: 1px dotted #333;
     height: 70px;
 }
+.TablaCondiciones th{
+    text-align: left;
+    font-size: 10px;
+    border: 1px dotted #333;
+    background-color: #f7f7f7;
+}
+
+.TablaCondiciones td{
+    text-align: left;
+    font-size: 10px;
+    border: 1px dotted #333;
+    
+}
 
 
 /* Styles go here */
