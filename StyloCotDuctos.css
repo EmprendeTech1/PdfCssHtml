@@ -130,6 +130,23 @@ span{
     
 }
 
+.TablaElaborado{
+    text-align: center;
+}
+
+.TablaElaborado th{
+    text-align: center;
+    font-size: 10px;
+    border: 1px dotted #333;
+    background-color: #f7f7f7;
+}
+
+.TablaElaborado td{
+    text-align: center;
+    font-size: 10px;
+    border: 1px dotted #333;
+}
+
 
 /* Styles go here */
 
