@@ -137,7 +137,7 @@ span{
 .TablaElaborado th{
     text-align: center;
     font-size: 10px;
-    /*border: 1px solid #333;*/
+    border: 1px solid #333;
     background-color: #f7f7f7;
 }
 
