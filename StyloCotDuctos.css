@@ -31,7 +31,7 @@ p{
 
 .Tablaizquierda th{
     text-align: left;
-    background-color: #7DE2EC;
+    background-color: #3AD2E1;
     color: #fffe;   
     /*border: 1px solid #333;*/
     
@@ -67,7 +67,7 @@ span{
 
 .tablaDetalle th{
     text-align: center;
-    background-color: #7DE2EC;
+    background-color: #3AD2E1;
     color: #fffe;
     /*border-radius: 5%;*/
     font-size: 10px;
@@ -87,7 +87,7 @@ span{
 }
 
 .TablaTotales th{
-    background-color: #7DE2EC;
+    background-color: #3AD2E1;
     text-align: center;
     color: #fffe;
     font-size: 12px;
@@ -103,7 +103,7 @@ span{
 }
 
 .TablaObservaciones th{
-    background-color: #7DE2EC;
+    background-color: #3AD2E1;
     text-align: center;
     color: #fff;
     font-size: 10px;
@@ -165,7 +165,7 @@ span{
 }
 
 .N_Cotizacion th {
-    background-color: #7DE2EC;
+    background-color: #3AD2E1;
     color: #fff;
     /*border: 1px solid #333;*/
     
