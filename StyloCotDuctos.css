@@ -1,5 +1,5 @@
 th{
-background-color: #AEAEAE;
+background-color: #DBDBDB;
 }
 
 main{
@@ -104,6 +104,24 @@ span{
     font-family: Arial, sans-serif, Impact;
     font-weight: bold;
 }
+
+
+.TablaIclusiones th{
+    /*background-color: #95DEE5;
+    text-align: center;
+    /*color: #fffe;*/
+    font-size: 12px;
+    /*border: 1px solid #333;*/
+}
+
+.TablaIclusiones td{
+    background-color: rgba(255, 255, 255, 0.582);
+    border: 1px solid #333;
+    text-align: center;
+    font-family: Arial, sans-serif, Impact;
+    /*font-weight: bold;*/
+}
+
 
 .TablaObservaciones th{
     /*background-color: #95DEE5;
